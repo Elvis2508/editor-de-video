@@ -1,0 +1,25 @@
+{
+  "name": "Studio Obra Pro",
+  "short_name": "Studio Obra",
+  "description": "Editor y conversor de video profesional. Procesamiento 100% local en el navegador.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1017",
+  "theme_color": "#2f80e7",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
