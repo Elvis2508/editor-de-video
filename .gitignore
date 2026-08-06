@@ -1,0 +1,29 @@
+# Dependencias de desarrollo
+node_modules/
+
+# Salidas y temporales
+test-output/
+test-results/
+playwright-report/
+exports/
+converted/
+temp/
+tmp/
+dist-temp/
+*.log
+
+# Respaldos (no publicar)
+backups/
+*__backup_*/
+
+# Entorno / SO
+.env
+.env.*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
