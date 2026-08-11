@@ -1,0 +1,34 @@
+# Dependencias (no subir)
+node_modules/
+
+# Salidas / temporales / pruebas locales
+test-output/
+test-results/
+playwright-report/
+exports/
+converted/
+temp/
+tmp/
+dist-temp/
+backups/
+*__backup_*/
+*.log
+
+# Videos / media de trabajo
+*.mp4
+*.webm
+*.mov
+*.mkv
+*.avi
+
+# Entorno / SO
+.env
+.env.*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
